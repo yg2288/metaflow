@@ -40,8 +40,9 @@ conda install -c conda-forge metaflow
 Once installed, a great way to get started is by following our [tutorial](https://docs.metaflow.org/getting-started/tutorials). It walks you through creating and running your first Metaflow flow step by step.  
 
 For more details on Metaflow’s features and best practices, check out:
-- [How Metaflow works](https://docs.metaflow.org/metaflow/basics)  
-- [Additional resources](https://docs.metaflow.org/introduction/metaflow-resources)  
+- [How Metaflow works](https://docs.metaflow.org/metaflow/basics)
+- [Additional resources](https://docs.metaflow.org/introduction/metaflow-resources)
+- [Metadata service provider internals](./docs/metadata_service.md)
 
 If you need help, don’t hesitate to reach out on our [Slack community](http://slack.outerbounds.co/)!
 
